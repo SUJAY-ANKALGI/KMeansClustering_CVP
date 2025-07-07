@@ -1,4 +1,7 @@
 # KMeansClustering_CVP
+Unsupervised learning algorithm used for clustering data into K distinct groups.
+It groups similar data points together based on feature similarity.
+
 This project captures live video from your webcam and applies K-Means clustering to reduce the number of colors in each frame, producing a cartoonized (posterized) effect in real time using OpenCV.
 
 Features
