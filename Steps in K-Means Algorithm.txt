@@ -1,0 +1,6 @@
+🔹 Steps in K-Means Algorithm:
+1.	Choose K (number of clusters).
+2.	Initialize K centroids randomly.
+3.	Assign each data point to the nearest centroid (based on Euclidean distance).
+4.	Update centroids by calculating the mean of all points in each cluster.
+5.	Repeat steps 3–4 until centroids stop changing (convergence).
